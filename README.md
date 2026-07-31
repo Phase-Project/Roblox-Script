@@ -5,5 +5,5 @@
 <h1 align="center">Phase Roblox Script</h1>
 
 ```
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Phase-Project/Roblox-Script/refs/heads/main/Src/Movement%20Recorder.lua"))()
 ```
