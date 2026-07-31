@@ -4,4 +4,6 @@
 
 <h1 align="center">Phase Roblox Script</h1>
 
-## Script
+```
+loadstring(game:HttpGet(""))()
+```
